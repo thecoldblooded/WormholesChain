@@ -1,4 +1,4 @@
-<h1 align="center"> Wormholes Chain V.0.11.6 </h1>
+<h1 align="center"> Wormholes Chain V.0.11.7 </h1>
 
 ![image](https://user-images.githubusercontent.com/101149671/193398451-1924bbed-747f-4493-a148-b9ee0837028e.png)
 
@@ -20,7 +20,7 @@ nano ruesandora.sh
 ```
 #!/bin/bash
 #check docker cmd
-echo "Script version Number: v0.11.6"
+echo "Script version Number: v0.11.7"
 which docker >/dev/null 2>&1
 if  [ $? -ne 0 ] ; then
         echo "docker not found, please install first!"
